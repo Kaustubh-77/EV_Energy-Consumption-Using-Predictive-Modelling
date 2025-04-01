@@ -1,15 +1,20 @@
+**Research Paper: Smart Energy allocation for Electric Vehicles using Predictive Modeling**
 **Project: Prediction of Energy Consumption of Electric Vehicles in charging stations using Predictive Modelling.**
 
 **Objective**: This academic project focuses on Prediction of charge consumed by electric vehicles, using Various predictive modelling techniques using Regression, Bagging, Boosting and LSTM based techniques.
+
 Algorithms used:
 1. Linear Regression
 2. Support Vector Classifier
-3. Random Forest Regressor
-4. Decision Tree Regressor
-5. Bagging
-6. Catboost
+3. LSTM
+4. LSTM + RNN
+5. LSTM + CNN
+6. XGBoost
 7. LightGBM
-8. LSTM
+9. Random Forest Regressor
+10. Decision Tree Regressor
+11. Bagging
+12. Catboost
    
 **Dataset Link:** https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NFPQLW
 
