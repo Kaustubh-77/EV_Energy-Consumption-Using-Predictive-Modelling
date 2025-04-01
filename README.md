@@ -1,4 +1,5 @@
 **Research Paper: Smart Energy allocation for Electric Vehicles using Predictive Modeling**
+
 **Project: Prediction of Energy Consumption of Electric Vehicles in charging stations using Predictive Modelling.**
 
 **Objective**: This academic project focuses on Prediction of charge consumed by electric vehicles, using Various predictive modelling techniques using Regression, Bagging, Boosting and LSTM based techniques.
